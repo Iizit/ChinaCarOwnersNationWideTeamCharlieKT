@@ -1,1 +1,3 @@
 # ChinaCarOwnersNationWideTeamCharlieKT
+
+![Designer](Designer.jpeg)
